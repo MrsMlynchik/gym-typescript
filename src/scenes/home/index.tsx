@@ -6,7 +6,6 @@ import HomePageGraphic from '@/assets/HomePageGraphic.png'
 import SponsorRedBull from '@/assets/SponsorRedBull.png'
 import SponsorForbes from '@/assets/SponsorForbes.png'
 import SponsorFortune from '@/assets/SponsorFortune.png'
-import React from 'react';
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import "@/index.css";
 import {motion} from "framer-motion";
